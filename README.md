@@ -14,9 +14,11 @@ Spider Solitaire is a classic card game that has been enjoyed by players for man
 
 ## Installation
 
-To run Spider Solitaire locally, follow these steps:
+To clone and run Spider Solitaire locally, follow these steps:
 
 1. Clone the repository to your local machine using the following command:
 
    ```bash
    git clone https://github.com/kashif2000/spider-solitair.git
+  
+2. Compile and run back-end.cpp.
